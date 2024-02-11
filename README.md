@@ -8,7 +8,7 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="tiagohtavares" /></p>
 
 
-- 🌱 I’m currently learning C, Shell and other programming languages.
+- 🌱 I’m currently learning C, C++, Shell and other programming languages.
 
 - 📫 You can contact me at **tiagotavares159951@gmail.com**
 
